@@ -34,7 +34,6 @@ The focus is on **requirements definition, system design, and implementation pla
 
 - `requirements.md` – Functional and non-functional system requirements with acceptance criteria
 - `design.md` – System architecture, component design, and correctness properties
-- `tasks.md` – Step-by-step implementation and testing plan (optional)
 
 ---
 
